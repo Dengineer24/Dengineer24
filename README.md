@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhruv Engineer!
-- 👀 I’m interested in programing, development, and just computers in gerneral.
+- 👀 I’m interested in programing, development, and just computers in general.
 - 🌱 I’m currently learning more programing languages like C, and flutter.
 - 💞️ I’m looking to collaborate on any projects or hackathons 
 - 📫 Reach me at dhruv.engineer24@gmail.com
