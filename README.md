@@ -17,8 +17,8 @@ class ComputerScienceStudent:
         print("Welcome to my github. Feel free to look around and contact me!")
 
 
-me = ComputerScienceStudent()
-me.welcome()
+my_info = ComputerScienceStudent()
+my_info.welcome()
 ```
 # Contact Me 
 
