@@ -10,7 +10,7 @@ class ComputerScienceStudent:
         self.name = "Dhruv Engineer"
         self.role = "Computer Science Student at Binghamton University"
         self.grad_year = "December 2024"
-        self.looking_for_work = "I am looking foward to getting real world experience through an internship!"
+        self.looking_for_work = "I am looking foward to getting real world experience through an software engineering internship!"
         self.quote = "Curiosity is code"
 
     def welcome(self):
