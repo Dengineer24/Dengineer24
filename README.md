@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Dhruv Engineer!
-- 👀 I’m interested in programing, development, and just computers in general.
-- 🌱 I’m currently learning more programing languages like C, and flutter.
-- 💞️ I’m looking to collaborate on any projects or hackathons 
-- 📫 Reach me at dhruv.engineer24@gmail.com
+#!/usr/bin/python/whats-up
+# -*- coding: utf-8 -*-
 
-<!---
-Dengineer24/Dengineer24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Dhruv Engineer"
+        self.role = "Computer Science Students"
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
