@@ -1,5 +1,4 @@
 # What's up! 😃
-
 ```python
 #!/usr/bin/python/whats_up
 # -*- coding: utf-8 -*-
@@ -21,8 +20,8 @@ class ComputerScienceStudent:
 me = ComputerScienceStudent()
 me.welcome()
 ```
-
 # Contact Me 
 
- <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" href="www.linkedin.com/in/dhruv-engineer" />
- <img src="{https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white}" hred=""/>
+<a href=href="www.linkedin.com/in/dhruv-engineer">
+  <img align="center" src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" alt="Dhruv-contact-linkedin" />
+</a>
