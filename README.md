@@ -1,23 +1,24 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 
 
 ```python
-#!/usr/bin/python
+#!/usr/bin/python/whats_up
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class ComputerScienceStudent:
 
     def __init__(self):
         self.name = "Dhruv Engineer"
-        self.role = "Computer Science Students"
-        self.language_spoken = ["en_US"]
+        self.role = "Computer Science Student at Binghamton University"
+        self.grad_year = "December 2024"
+        self.looking_for_work = "I am looking foward to getting real world experience through an internship!"
+        self.quote = "Curiosity is code"
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def welcome(self):
+        print("Welcome to my github. Feel free to look around and contact me!")
 
 
-me = SoftwareEngineer()
-me.say_hi()
+me = ComputerScienceStudent()
+me.welcome()
 ```
 
