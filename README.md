@@ -26,6 +26,7 @@ me.welcome()
 <a rel="noopener noreferrer" href="mailto:dhruv.engineer24@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo==gmail&logoColor=white"></a>
 
 # Skills
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
+<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/Python.svg" />
 
 
