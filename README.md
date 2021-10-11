@@ -28,6 +28,7 @@ my_info.welcome()
 ```
 # Contact Me 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a rel="noopener noreferrer" href="https://www.linkedin.com/in/dhruvengineer"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a rel="noopener noreferrer" href="mailto:dhruv.engineer24@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo==gmail&logoColor=white"></a>
 
@@ -41,6 +42,9 @@ my_info.welcome()
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dhruvengineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dhruvengineer?trk=profile-badge">Dhruv Engineer</a></div>
+
+              
 
 
 
