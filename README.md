@@ -13,10 +13,10 @@ class ComputerScienceStudent:
         self.looking_for_work = "I am looking foward to getting real world experience through an software engineering internship!"
         self.quote = "Curiosity is code"
         self.skills = {
-            "Languages": {"l-1": "Python", "l-2": "Java", "l-3": "Javascript", "l-4": "HTML", "l-5": "CSS"},
-            "Other_tools": {"t-1": "Node.js", "t-2": "Git/Github", "t-3": "Arduino", "t-4": "Google Cloud"},
-            "Intrapersonal": {"i-1": "Teamwork", "i-2": "Communication", "i-3": "Leadership"},
-            "OS": {"o-1": "Mac OS", "o-2": "Windows", "0-3": "Linux"},
+            "Languages": {"Best": "Python", "and": "Java", "and": "Javascript", "and": "HTML", "and": "CSS"},
+            "Other_tools": {"First": "Node.js", "and": "Git/Github", "and": "Arduino", "and": "Google Cloud"},
+            "Intrapersonal": {"Always": "Teamwork", "and": "Communication", "and": "Leadership"},
+            "OS": {"First": "Mac OS", "and": "Windows", "and": "Linux"},
             }
 
     def welcome(self):
