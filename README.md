@@ -14,7 +14,7 @@ class ComputerScienceStudent:
         self.quote = "Curiosity is code"
         self.skills = {
             "Languages": {"Best": "Python", "and": "Java", "and": "Javascript", "and": "HTML", "and": "CSS"},
-            "Other_tools": {"First": "Node.js", "and": "React", "and": "Git/Github", "and": "Arduino", "and": "Google Cloud"},
+            "Other_tools": {"First": "Node.js", "and": "Express.js", and": "React", "and": "Git/Github", "and": "Arduino", "and": "Google Cloud"},
             "Intrapersonal": {"Always": "Teamwork", "and": "Communication", "and": "Leadership"},
             "OS": {"First": "Mac OS", "and": "Windows", "and": "Linux"},
             }
