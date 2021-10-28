@@ -9,12 +9,11 @@ class ComputerScienceStudent:
     def __init__(self):
         self.name = "Dhruv Engineer"
         self.role = "Computer Science Student at Binghamton University"
-        self.grad_year = "December 2024"
         self.looking_for_work = "I am looking foward to getting real world experience through an software engineering internship!"
         self.quote = "Curiosity is code"
         self.skills = {
-            "Languages": {"Best": "Python", "and": "Java", "and": "Javascript", "and": "HTML", "and": "CSS"},
-            "Other_tools": {"First": "Node.js", "and": "Express.js", and": "React", "and": "Git/Github", "and": "Arduino", "and": "Google Cloud"},
+            "Languages": {"Best": "Python", "and": "Java", "and": "Javascript", "and": "HTML", "and": "CSS", "and": "MongoDB"},
+            "Other_tools": {"First": "Node.js", "and": "Express.js", and": "React", "and": "Git/Github", "and": "Flask", "and": "Arduino", "and": "Google Cloud"},
             "Intrapersonal": {"Always": "Teamwork", "and": "Communication", "and": "Leadership"},
             "OS": {"First": "Mac OS", "and": "Windows", "and": "Linux"},
             }
