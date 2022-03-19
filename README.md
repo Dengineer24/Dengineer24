@@ -9,7 +9,7 @@ class ComputerScienceStudent:
     def __init__(self):
         self.name = "Dhruv Engineer"
         self.role = "Computer Science Student at Binghamton University"
-        self.looking_for_work = "I am looking foward to getting real world experience through an software engineering internship!"
+        self.looking_for_work = "I am currently in search of a Software Engineering Internship!"
         self.quote = "Curiosity is code"
 
     def welcome(self):
