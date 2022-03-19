@@ -22,7 +22,7 @@ my_info.welcome()
 
 
 # Learn More About Me 
-<a rel="noopener noreferrer" href="https://dengineer.vercel.app/" target"_blank"><img src="https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=Link&url=https%3A%2F%2Fdengineer.vercel.app"></a>
+<a rel="noopener noreferrer" href="https://dengineer.vercel.app/" target="_blank"><img src="https://img.shields.io/website?style=for-the-badge&up_color=blue"></a>
 
 # Contact Me 
 
