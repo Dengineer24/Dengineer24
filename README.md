@@ -19,6 +19,11 @@ class ComputerScienceStudent:
 my_info = ComputerScienceStudent()
 my_info.welcome()
 ```
+
+
+# Learn More About Me 
+<a rel="noopener noreferrer" href="https://dengineer.vercel.app/"></a>
+
 # Contact Me 
 
 
