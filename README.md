@@ -29,6 +29,3 @@ I am a junior at Binghamton University, and am perusing a software engineering i
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Dengineer24"><img src="https://github-readme-stats.vercel.app/api?username=Dengineer24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Dengineer24's GitHub stats" /></a>
