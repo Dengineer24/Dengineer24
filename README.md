@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS @ Binghamton Unviersity
 --------------------------
 
-I am a sophomore at Binghamton University, and am perusing a software engineering internship for this summer!
+I am a junior at Binghamton University, and am perusing a software engineering internship for this summer!
 
-*   🖥️  See my portfolio at [My Website](https://dengineer.vercel.app/)
 
 ### Skills
 <p align="left">
